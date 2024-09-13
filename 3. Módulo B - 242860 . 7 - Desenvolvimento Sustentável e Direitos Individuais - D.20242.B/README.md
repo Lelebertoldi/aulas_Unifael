@@ -2,11 +2,11 @@
 
   Data de Início : 16/08/2024 - Até : 30/09/2024
   
-  Média :
+  Média : 10
   
-  Nota AV1 : 
+  Nota AV1 : 10
   
-  Nota AV2 :
+  Nota AV2 : 10
   
   80 Hs
 
