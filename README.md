@@ -30,80 +30,116 @@
 
 ### 🎓 [Introdução Ao Coding (Web) - 100h]()
   * Data de Início : 16/10/2024 - Até : 30/11/2024
+  * Nota AV1 : 
+  * Nota AV2 : 
   * Média : 
 
 ### 🎓 [Introdução Ao Coding (Mobile) - 100h]()
   * Data de Início : 16/11/2024 - Até : 30/12/2024
-  * Média :
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
 
 ## **2º Período**
 
 ### 🎓 [Atividades Práticas Interdisciplinares de Extensão I - 80h]()
-  * Data de Início : 16/01/2025
-  * Média :
-
+  * Data de Início : 16/01/2025 - Até : 30/02/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Empreendedorismo - 60h]()
-  * Data de Início : 16/01/2025
-  * Média :
+  * Data de Início : 16/01/2025 - Até : 30/02/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
 
 ### 🎓 [Gerenciamento de Projetos - 100h]()
-  * Data de Início : 16/02/2025
-  * Média :
-
+  * Data de Início : 16/02/2025 - Até : 30/03/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Machine Learning e Aprendizagem Profunda - 100h]()
-  * Data de Início : 16/03/2025
-  * Média :
-
+  * Data de Início : 16/03/2025 - Até : 30/04/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Fundamentos em Data Science e Análise Estatística de Dados - 100h]()
-  * Data de Início : 16/04/2025
-  * Média :
-
+  * Data de Início : 16/04/2025 - Até : 30/05/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Organização, Arquitetura e Redes de Computadores - 100h]()
-  * Data de Início : 16/05/2025
-  * Média :
-
+  * Data de Início : 16/05/2025 - Até : 30/06/2025
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ## **3º Período**
 
 ### 🎓 [Atividades Práticas Interdisciplinares de Extensão II - 90h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Banco de Dados - 100h]()
   * Data de Início : 
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Engenharia e Banco de Dados Aplicado - 80h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Infraestrutura de Data Science e Cloud Computing - 60h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Iot (Wearables) - Programação com Arduino - 80h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Laboratório de Projetos Inovadores - 60h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Programação, Estrutura e Mineração de Dados - 60h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Optativa I - 60h]()
   * Data de Início : 
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Optativa II - 60h]()
   * Data de Início :
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ### 🎓 [Língua Brasileira de Sinais - Libras (Disciplina Optativa) - 60h]()
   * Data de Início : 
-  * Média :
-
+  * Nota AV1 : 
+  * Nota AV2 : 
+  * Média : 
+    
 ---
 
 ### 📃 [Documentos](https://github.com/Lelebertoldi/documentos/tree/main/Unifael)
